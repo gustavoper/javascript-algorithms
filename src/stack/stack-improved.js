@@ -57,7 +57,6 @@ console.log(
     Top Element: ${stack.peek()}
 `);
 stack.push(312);
-
 console.log(
     `All Elements [${stack.toString()}]
     Size: ${stack.size()}
