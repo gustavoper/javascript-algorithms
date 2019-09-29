@@ -45,8 +45,8 @@ class Stack
         return objString;
     }
 }
-
-
+module.exports = Stack;
+/**
 const stack = new Stack();
 stack.push(3);
 stack.push(7);
@@ -57,9 +57,8 @@ console.log(
     Top Element: ${stack.peek()}
 `);
 stack.push(312);
-
 console.log(
     `All Elements [${stack.toString()}]
     Size: ${stack.size()}
     Top Element: ${stack.peek()}
-`);
+`);**/

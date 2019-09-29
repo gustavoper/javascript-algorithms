@@ -27,6 +27,7 @@ class Stack
     }
 }
 
+/**
 stack = new Stack();
 
 stack.push(1);
@@ -44,3 +45,4 @@ console.log(
     Size: ${stack.size()}
     Top Element: ${stack.peek()}
 `);
+*/
