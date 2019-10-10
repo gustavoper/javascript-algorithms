@@ -6,6 +6,7 @@ A set of Javascript algorithms and data structure examples.
 
 
 1 - `node [filename]`
+
 1.1 - Use `babel-cli` to re-compile if needed
 
 ## Disclaimer: you can find some of the code of this repo on Loiane Groner`s book about Data Structure and Algorithms in Javascript (Learning JavaScript Data Structures and Algorithms - Third Edition).
